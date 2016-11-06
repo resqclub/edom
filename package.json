@@ -1,0 +1,16 @@
+{
+  "name": "edom",
+  "version": "0.1.0",
+  "description": "GUI for creating RE:DOM elements out of JSON objects.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redom": "^1.3.2",
+    "electron": "^1.4.5",
+    "jquery": "^3.1.1"
+  }
+}

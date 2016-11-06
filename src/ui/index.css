@@ -1,0 +1,12 @@
+@import 'container.css';
+@import 'toolBox.css';
+
+.clickableIcon {
+    cursor: pointer;
+    color: #ddd;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+.clickableIcon:hover {
+    opacity: 1;
+}
